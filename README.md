@@ -27,7 +27,7 @@ programs).
 ## Customization
 
 By default, LARBS uses the programs [here in progs.csv](progs.csv) and installs
-[my dotfiles repo (voidrice) here](https://github.com/lukesmithxyz/voidrice),
+[my dotfiles repo (voidrice) here](https://github.com/Trial97/voidrice),
 but you can easily change this by either modifying the default variables at the
 beginning of the script or giving the script one of these options:
 
